@@ -1,6 +1,6 @@
 # Churn-Copilot
 
-<video controls src="assets/demo_churn.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/df85d1a2-4951-4bbd-a8c9-15115924efb1
 
 A real-time churn copilot that predicts risk, explains why, and recommends action.
 
