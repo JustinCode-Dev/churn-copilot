@@ -1,4 +1,7 @@
 # Churn-Copilot
+
+<video controls src="assets/demo_churn.mp4" title="Title"></video>
+
 A real-time churn copilot that predicts risk, explains why, and recommends action.
 
 # Workflow
